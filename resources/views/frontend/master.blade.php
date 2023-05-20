@@ -9,7 +9,7 @@
 		<link rel="stylesheet" type="text/css"
      href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
 
-        <title>Kumo- Fashion eCommerce HTML Template</title>
+        <title>Cypher- Fashion eCommerce HTML Template</title>
 
         <!-- Custom CSS -->
         <link href="{{asset('/frontend/css/plugins/animation.css')}}" rel="stylesheet">
